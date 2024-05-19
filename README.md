@@ -26,11 +26,8 @@ git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 
 <pre><code>
     Primero seleccionamos un número del menú
-
-    
-![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/0716c33d-6528-435e-b5cc-f6dc99683bf1)
-
 </code> </pre>
+![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/0716c33d-6528-435e-b5cc-f6dc99683bf1)
     
     
 
