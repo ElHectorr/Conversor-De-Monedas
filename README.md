@@ -22,15 +22,15 @@ git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 
 <h2 id="ejemplo de uso">Ejemplo de uso</h2>
     
+<p> Un ejemplo de cómo podemos usar el proyecto </p>
 
+<pre><code>
 
-// Ejemplo de uso
-// Ejemplo de uso
-import { myFunction } from 'mi-proyecto';
-
-myFunction();
     
-    ![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
+![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
+</code> </pre>
+    
+    
 
 
 
