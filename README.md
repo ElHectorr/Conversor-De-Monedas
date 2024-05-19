@@ -23,8 +23,7 @@ import { myFunction } from 'mi-proyecto';
 
 myFunction();
     </code> No se </pre>
-    <img alt=![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
->
+    ![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
 
 
 
