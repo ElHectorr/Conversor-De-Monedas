@@ -25,9 +25,22 @@ git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 <p> Un ejemplo de cómo podemos usar el proyecto </p>
 
 <pre><code>
-    Primero seleccionamos un número del menú
+    Primero seleccionamos un número del menú.
 </code> </pre>
 ![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/0716c33d-6528-435e-b5cc-f6dc99683bf1)
+
+<pre><code>
+    Despues elegimos una la divisa a la que queremos convertir, en caso de seleccionar "5" (Ingresar manualmente) el código de divisa.
+</code> </pre>
+![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/4d6ac9f7-3446-49d5-b9f3-e8ab93294e22)
+
+<pre><code>
+    Escribimos la cantidad que queremos convertir de la primer divisa a la segunda divisa, y finalmente obtenemos el equivalente de una unidad de la primer divisa a la segunda divisa, ademas de la conversion previamente solicitada
+</code> </pre>
+![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/a4b41dc7-4c58-4535-ad31-d49c368e2679)
+
+
+
     
     
 
