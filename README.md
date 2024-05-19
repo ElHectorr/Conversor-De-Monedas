@@ -16,6 +16,10 @@
   para convertir objetos de json a java </p>
 <pre><code>
 # Clona este repositorio
+</code> </pre>
+
+<h2 id="ejemplo de uso">Instalación</h2>
+    
 git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 
 // Ejemplo de uso
@@ -23,7 +27,7 @@ git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 import { myFunction } from 'mi-proyecto';
 
 myFunction();
-    </code> No se </pre>
+    
     ![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
 
 
