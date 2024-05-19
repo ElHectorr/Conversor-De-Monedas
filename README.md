@@ -6,6 +6,7 @@
 <ul>
     <li><a href="#instalacion">Instalación</a></li>
     <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#ejemplo de uso">Contacto</a></li>
 </ul>
 
 <h2 id="instalacion">Instalación</h2>
