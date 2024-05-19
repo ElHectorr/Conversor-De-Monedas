@@ -18,8 +18,14 @@
 git clone https://github.com/ElHectorr1/Conversor-De-Monedas.git
 
 // Ejemplo de uso
+// Ejemplo de uso
+import { myFunction } from 'mi-proyecto';
 
-[image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
+myFunction();
+    </code> No se </pre>
+    <img alt=![image](https://github.com/ElHectorr/Conversor-De-Monedas/assets/130266820/d8da2813-1b5a-4aab-a641-2ffccdd31436)
+>
+
 
 
     
